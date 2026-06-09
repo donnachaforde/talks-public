@@ -1,0 +1,39 @@
+# Ignore temporary office files
+~*.pptx
+~*.docx
+.DS_Store
+
+# Operating system
+Thumbs.db
+
+# Visual Studio / VS Code
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node
+node_modules/
+
+# Rider/IntelliJ
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# Build outputs
+dist/
+build/
+
+# Ignore git directory if mistakenly copied
+.git/
