@@ -5,6 +5,16 @@ Talks and lectures I've delivered .
 
 _Most Recent Order_
 
+
+
+1. [Endpoint Security - Engineering Cybersecurity Solutions](https://github.com/donnachaforde/talks-public/blob/main/pdf/Engineering%20Endpoint%20Security%20Solutions%20(Oct%2C%202026).pdf)
+
+	_October, 2026_ 
+	
+	This is yet another revision to what has become an annual lecture for the most recent intake of the [Cyber Innovate](https://cyberinnovate.ie/) program. As before, the talk was delivered at the [Rubicon Centre](https://rubiconcentre.ie/) at [Munster Technological University](https://www.mtu.ie/). The 2026 version includes updates to the stats and figures around cybercrime, considerations of the impact of AI for both AV vendors and adversaries and improvements to the format of several slides. 
+
+
+
 1. [Endpoint Security - Engineering Cybersecurity Solutions](pdf/Engineering%20Endpoint%20Security%20Solutions%20%28Oct%2C%202025%29.pdf)
 
 	_October, 2025_ 
