@@ -15,13 +15,13 @@ _Most Recent Order_
 
 
 
-1. [Endpoint Security - Engineering Cybersecurity Solutions](pdf/Engineering%20Endpoint%20Security%20Solutions%20%28Oct%2C%202025%29.pdf)
+2. [Endpoint Security - Engineering Cybersecurity Solutions](pdf/Engineering%20Endpoint%20Security%20Solutions%20%28Oct%2C%202025%29.pdf)
 
 	_October, 2025_ 
 	
 	This is a revised version of the lecture given in 2024 for the [Cyber Innovate](https://cyberinnovate.ie/) class of 2025-26, delivered at the [Munster Technological University](https://www.mtu.ie/). The 2025 update expands coverage of endpoint security within a growing threat landscape, adds discussion of cybercrime costs and attack trends, and refreshes the AV/EDR/ransomware engineering sections while keeping the deeper endpoint engineering focus.
 
-2. [A Tour of Cybersecurity - AI Native Security](pdf/A%20Tour%20of%20Cybersecurity%20-%20AI%20Native%20Security.pdf)
+3. [A Tour of Cybersecurity - AI Native Security](pdf/A%20Tour%20of%20Cybersecurity%20-%20AI%20Native%20Security.pdf)
 
 	_April, 2025_ 
 	
@@ -29,7 +29,7 @@ _Most Recent Order_
 
 
 
-3. [Endpoint Security - Engineering Cybersecurity Solutions](pdf/Engineering%20Endpoint%20Security%20Solutions.pdf)
+4. [Endpoint Security - Engineering Cybersecurity Solutions](pdf/Engineering%20Endpoint%20Security%20Solutions.pdf)
 
 	_September, 2024_ 
 	
@@ -37,7 +37,7 @@ _Most Recent Order_
 
 
 
-4. [Engineering Security Solutions - Rollback Remediation](pdf/Engineering%20Security%20Solutions%20-%20Rollback%20Remediation.pdf)
+5. [Engineering Security Solutions - Rollback Remediation](pdf/Engineering%20Security%20Solutions%20-%20Rollback%20Remediation.pdf)
 
 	_November, 2023_
 
